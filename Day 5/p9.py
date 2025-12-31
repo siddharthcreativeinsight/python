@@ -33,6 +33,14 @@ for x in College:
     for y in range(1,5):
         print(y,x)
 
+#useing the nested loop
+Name=["Riya", "risit", "vasu", "raj", "ravi"]
+Student=["Student 1","Student 2","Student 3","Student 4"]
+for x in Student:
+    for y in Name:
+        print(x,y)
+
+
 # while loop
 i=1
 while i<10:
